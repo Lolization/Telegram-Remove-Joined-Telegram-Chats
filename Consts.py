@@ -1,0 +1,4 @@
+API_ID = 0
+API_HASH = ''
+CLIENT_PHONE = ""
+CLIENT_PASSWORD = ""
